@@ -1,0 +1,31 @@
+html {
+  min-width: 350px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#box {
+  width: 80%;
+  min-width: 350px;
+  margin: 0 auto;
+}
+
+#pongCanvas {
+  border: 1px solid black;
+  background: black;
+  margin: 0 auto;
+  display: block;
+  width: 500px;
+}
+
+#pp {
+  margin: 0 2em;
+}
+
+#p1,
+#p2 {
+  margin: 0 2em;
+  display: inline-block;
+}
